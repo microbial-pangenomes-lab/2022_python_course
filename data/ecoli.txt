@@ -1,0 +1,91 @@
+Replicon Name	Replicon Accession	Start	Stop	Strand	GeneID	Locus	Locus tag	Protein product	Length	COG(s)	Protein name
+chr	NC_000913.3	51609	52430	-	944939	rsmA	b0051	NP_414593.1	273	-	16S rRNA m(6)2A1518,m(6)2A1519 dimethyltransferase
+chr	NC_000913.3	59687	60346	-	946262	rluA	b0058	NP_414600.1	219	-	23S rRNA pseudouridine(746) and tRNA pseudouridine(32) synthase
+chr	NC_000913.3	90094	91035	+	944806	rsmH	b0082	NP_414624.1	313	-	16S rRNA m(4)C1402 methyltransferase
+chr	NC_000913.3	668248	668715	-	945239	rlmH	b0636	NP_415169.1	155	-	23S rRNA m(3)psi1915 methyltransferase
+chr	NC_000913.3	842332	843258	+	944938	rlmF	b0807	NP_415328.4	308	-	23S rRNA m(6)A1618 methyltransferase
+chr	NC_000913.3	898518	899645	+	947260	rlmC	b0859	NP_415380.1	375	-	23S rRNA m(5)U747 methyltransferase
+chr	NC_000913.3	1007844	1009952	+	945564	rlmL	b0948	NP_415468.1	702	-	fused 23S rRNA m(2)G2445 methyltransferase and 23S rRNA m(7)G2069 methyltransferase
+chr	NC_000913.3	1028779	1029969	-	946691	rlmI	b0967	NP_415487.4	396	-	23S rRNA m(5)C1962 methyltransferase
+chr	NC_000913.3	1144940	1145899	+	945637	rluC	b1086	NP_415604.1	319	-	23S rRNA pseudouridine(955/2504/2580) synthase
+chr	NC_000913.3	1194298	1194951	-	945701	rluE	b1135	NP_415653.4	217	-	23S rRNA pseudouridine(2457) synthase
+chr	NC_000913.3	1326852	1327727	+	945840	rluB	b1269	NP_415785.1	291	-	23S rRNA pseudouridine(2605) synthase
+chr	NC_000913.3	1506781	1508742	+	945993	rlhA	b1435	NP_415952.2	653	-	23S rRNA 5-hydroxycytidine C2501 synthase
+chr	NC_000913.3	1906251	1907060	-	946340	rlmA	b1822	NP_416336.1	269	-	23S rRNA m(1)G745 methyltransferase
+chr	NC_000913.3	1920223	1921662	+	946348	rsmF	b1835	NP_416349.2	479	-	16S rRNA m(5)C1407 methyltransferase
+chr	NC_000913.3	2279788	2280483	-	945378	rsuA	b2183	NP_416688.1	231	-	16S rRNA pseudouridine(516) synthase
+chr	NC_000913.3	2643129	2644283	-	946249	rlmN	b2517	NP_417012.1	384	-	23S rRNA m(2)A2503 methyltransferase/tRNA m(2)A37 methyltransferase
+chr	NC_000913.3	2735031	2736011	-	947087	rluD	b2594	NP_417085.1	326	-	23S rRNA pseudouridine(1911/1915/1917) synthase
+chr	NC_000913.3	2913699	2915000	-	947243	rlmD	b2785	NP_417265.1	433	-	23S rRNA m(5)U1939 methyltransferase
+chr	NC_000913.3	2940143	2941243	-	947283	rlmM	b2806	NP_417286.1	366	-	23S rRNA 2\'-O-ribose C2498 methyltransferase
+chr	NC_000913.3	3091134	3091865	+	945816	rsmE	b2946	NP_417421.4	243	-	16S rRNA m(3)U1498 methyltransferase
+chr	NC_000913.3	3234739	3235875	-	947589	rlmG	b3084	NP_417555.4	378	-	23S rRNA m(2)G1835 methyltransferase
+chr	NC_000913.3	3292475	3293335	-	947664	rsmI	b3146	NP_417615.1	286	-	16S rRNA 2\'-O-ribose C1402 methyltransferase
+chr	NC_000913.3	3327035	3327664	-	947689	rlmE	b3179	NP_417646.1	209	-	23S rRNA 2\'-O-ribose U2552 methyltransferase
+chr	NC_000913.3	3435207	3436496	+	947789	rsmB	b3289	NP_417747.1	429	-	16S rRNA m(5)C967 methyltransferase
+chr	NC_000913.3	3604393	3604989	+	947977	rsmD	b3465	NP_417922.1	198	-	16S rRNA m(2)G966 methyltransferase
+chr	NC_000913.3	3642380	3643132	-	948005	rsmJ	b3497	NP_417954.1	250	-	16S rRNA m(2)G1516 methyltransferase
+chr	NC_000913.3	3645385	3646227	+	948012	rlmJ	b3499	NP_417956.1	280	-	23S rRNA m(6)A2030 methyltransferase
+chr	NC_000913.3	3923057	3923680	-	948250	rsmG	b3740	NP_418196.1	207	-	16S rRNA m(7)G527 methyltransferase
+chr	NC_000913.3	4230354	4231226	+	948519	rluF	b4022	NP_418446.1	290	-	23S rRNA pseudouridine(2604) and tRNA(Tyr) pseudouridine(35) synthase
+chr	NC_000913.3	4409275	4410006	+	948694	rlmB	b4180	NP_418601.1	243	-	23S rRNA 2\'-O-ribose G2251 methyltransferase
+chr	NC_000913.3	4606669	4607700	-	948892	rsmC	b4371	NP_418788.1	343	-	16S rRNA m(2)G1207 methyltransferase
+chr	NC_000913.3	4640942	4641628	+	948924	yjtD	b4403	NP_418820.1	228	-	putative rRNA methyltransferase
+chr	NC_000913.3	1147367	1147540	+	945657	rpmF	b1089	NP_415607.1	57	-	50S ribosomal subunit protein L32
+chr	NC_000913.3	1799393	1799749	-	945152	rplT	b1716	NP_416231.1	118	-	50S ribosomal subunit protein L20
+chr	NC_000913.3	1799802	1799999	-	946349	rpmI	b1717	NP_416232.3	65	-	50S ribosomal subunit protein L35
+chr	NC_000913.3	2282517	2282801	+	945618	rplY	b2185	NP_416690.1	94	-	50S ribosomal subunit protein L25
+chr	NC_000913.3	2447508	2448440	-	946805	prmB	b2330	NP_416833.4	310	-	50S ribosomal subunit protein L3 N(5)-glutamine methyltransferase
+chr	NC_000913.3	2635884	2637356	-	946983	der	b2511	NP_417006.2	490	-	50S ribosomal subunit stability factor
+chr	NC_000913.3	2744183	2744530	-	947096	rplS	b2606	NP_417097.1	115	-	50S ribosomal subunit protein L19
+chr	NC_000913.3	3332862	3333119	-	945190	rpmA	b3185	NP_417652.1	85	-	50S ribosomal subunit protein L27
+chr	NC_000913.3	3333140	3333451	-	949057	rplU	b3186	NP_417653.1	103	-	50S ribosomal subunit protein L21
+chr	NC_000913.3	3378223	3378651	-	947828	rplM	b3231	NP_417698.1	142	-	50S ribosomal subunit protein L13
+chr	NC_000913.3	3439616	3439999	-	947784	rplQ	b3294	NP_417753.1	127	-	50S ribosomal subunit protein L17
+chr	NC_000913.3	3442618	3442734	-	947805	rpmJ	b3299	NP_417758.1	38	-	50S ribosomal subunit protein L36
+chr	NC_000913.3	3444105	3444539	-	947798	rplO	b3301	NP_417760.1	144	-	50S ribosomal subunit protein L15
+chr	NC_000913.3	3444543	3444722	-	947797	rpmD	b3302	NP_417761.1	59	-	50S ribosomal subunit protein L30
+chr	NC_000913.3	3445244	3445597	-	947804	rplR	b3304	NP_417763.1	117	-	50S ribosomal subunit protein L18
+chr	NC_000913.3	3445607	3446140	-	947803	rplF	b3305	NP_417764.1	177	-	50S ribosomal subunit protein L6
+chr	NC_000913.3	3446899	3447438	-	947800	rplE	b3308	NP_417767.1	179	-	50S ribosomal subunit protein L5
+chr	NC_000913.3	3447453	3447767	-	947810	rplX	b3309	NP_417768.1	104	-	50S ribosomal subunit protein L24
+chr	NC_000913.3	3447778	3448149	-	947809	rplN	b3310	NP_417769.1	123	-	50S ribosomal subunit protein L14
+chr	NC_000913.3	3448568	3448759	-	947807	rpmC	b3312	NP_417771.1	63	-	50S ribosomal subunit protein L29
+chr	NC_000913.3	3448759	3449169	-	947806	rplP	b3313	NP_417772.1	136	-	50S ribosomal subunit protein L16
+chr	NC_000913.3	3449901	3450233	-	947813	rplV	b3315	NP_417774.1	110	-	50S ribosomal subunit protein L22
+chr	NC_000913.3	3450543	3451364	-	947820	rplB	b3317	NP_417776.1	273	-	50S ribosomal subunit protein L2
+chr	NC_000913.3	3451382	3451684	-	947819	rplW	b3318	NP_417777.1	100	-	50S ribosomal subunit protein L23
+chr	NC_000913.3	3451681	3452286	-	947818	rplD	b3319	NP_417778.1	201	-	50S ribosomal subunit protein L4
+chr	NC_000913.3	3452297	3452926	-	947817	rplC	b3320	NP_417779.1	209	-	50S ribosomal subunit protein L3
+chr	NC_000913.3	3811250	3811417	-	946318	rpmG	b3636	NP_418093.1	55	-	50S ribosomal subunit protein L33
+chr	NC_000913.3	3811438	3811674	-	946941	rpmB	b3637	NP_418094.1	78	-	50S ribosomal subunit protein L28
+chr	NC_000913.3	3884336	3884476	+	948216	rpmH	b3703	NP_418158.1	46	-	50S ribosomal subunit protein L34
+chr	NC_000913.3	4127013	4127225	+	948425	rpmE	b3936	NP_418371.1	70	-	50S ribosomal subunit protein L31
+chr	NC_000913.3	4178447	4178875	+	948484	rplK	b3983	NP_418410.1	142	-	50S ribosomal subunit protein L11
+chr	NC_000913.3	4178879	4179583	+	948483	rplA	b3984	NP_418411.1	234	-	50S ribosomal subunit protein L1
+chr	NC_000913.3	4179996	4180493	+	948490	rplJ	b3985	NP_418412.1	165	-	50S ribosomal subunit protein L10
+chr	NC_000913.3	4180560	4180925	+	948489	rplL	b3986	NP_418413.1	121	-	50S ribosomal subunit protein L12
+chr	NC_000913.3	4426108	4426557	+	948720	rplI	b4203	NP_418624.1	149	-	50S ribosomal subunit protein L9
+chr	NC_000913.3	20815	21078	-	944759	rpsT	b0023	NP_414564.1	87	-	30S ribosomal subunit protein S20
+chr	NC_000913.3	189874	190599	+	947874	rpsB	b0169	NP_414711.1	241	-	30S ribosomal subunit protein S2
+chr	NC_000913.3	961995	963668	+	945536	rpsA	b0911	NP_415431.1	557	-	30S ribosomal subunit protein S1
+chr	NC_000913.3	1555826	1555963	-	946030	sra	b1480	NP_415997.1	45	-	30S ribosomal subunit protein S22
+chr	NC_000913.3	2702481	2703386	-	947036	era	b2566	NP_417061.1	301	-	30S ribosomal subunit maturation GTPase Era
+chr	NC_000913.3	2745937	2746185	-	947103	rpsP	b2609	NP_417100.1	82	-	30S ribosomal subunit protein S16
+chr	NC_000913.3	3210781	3210996	+	947577	rpsU	b3065	NP_417537.1	71	-	30S ribosomal subunit protein S21
+chr	NC_000913.3	3311415	3311684	-	947686	rpsO	b3165	NP_417634.1	89	-	30S ribosomal subunit protein S15
+chr	NC_000913.3	3377815	3378207	-	949000	rpsI	b3230	NP_417697.1	130	-	30S ribosomal subunit protein S9
+chr	NC_000913.3	3441055	3441675	-	947793	rpsD	b3296	NP_417755.1	206	-	30S ribosomal subunit protein S4
+chr	NC_000913.3	3441709	3442098	-	947792	rpsK	b3297	NP_417756.1	129	-	30S ribosomal subunit protein S11
+chr	NC_000913.3	3442115	3442471	-	947791	rpsM	b3298	NP_417757.1	118	-	30S ribosomal subunit protein S13
+chr	NC_000913.3	3444726	3445229	-	947795	rpsE	b3303	NP_417762.1	167	-	30S ribosomal subunit protein S5
+chr	NC_000913.3	3446153	3446545	-	947802	rpsH	b3306	NP_417765.1	130	-	30S ribosomal subunit protein S8
+chr	NC_000913.3	3446579	3446884	-	947801	rpsN	b3307	NP_417766.1	101	-	30S ribosomal subunit protein S14
+chr	NC_000913.3	3448314	3448568	-	947808	rpsQ	b3311	NP_417770.1	84	-	30S ribosomal subunit protein S17
+chr	NC_000913.3	3449182	3449883	-	947814	rpsC	b3314	NP_417773.1	233	-	30S ribosomal subunit protein S3
+chr	NC_000913.3	3450248	3450526	-	947811	rpsS	b3316	NP_417775.1	92	-	30S ribosomal subunit protein S19
+chr	NC_000913.3	3452959	3453270	-	947816	rpsJ	b3321	NP_417780.1	103	-	30S ribosomal subunit protein S10
+chr	NC_000913.3	3473542	3474081	-	947846	rpsG	b3341	NP_417800.1	179	-	30S ribosomal subunit protein S7
+chr	NC_000913.3	3474178	3474552	-	947845	rpsL	b3342	NP_417801.1	124	-	30S ribosomal subunit protein S12
+chr	NC_000913.3	4425118	4425513	+	948723	rpsF	b4200	NP_418621.5	131	-	30S ribosomal subunit protein S6
+chr	NC_000913.3	4425839	4426066	+	948721	rpsR	b4202	NP_418623.1	75	-	30S ribosomal subunit protein S18
